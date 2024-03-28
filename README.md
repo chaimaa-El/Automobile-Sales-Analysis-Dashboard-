@@ -22,16 +22,4 @@ In this part, a dashboard is developed using Dash, allowing users to interactive
 
 The dataset includes variables such as Date, Recession indicator, Automobile Sales, GDP, Unemployment Rate, Consumer Confidence, Seasonality Weight, Price, Advertising Expenditure, Vehicle Type, Competition, Month, and Year. By analyzing these factors, insights into recession impacts on automobile sales are gained.
 
-## Instructions for Submission
-
-You will be required to upload images showing your plots or dashboards for your peers' review and points allocation. Tasks involve developing various visualizations and a dashboard to visualize automobile sales data during recession periods.
-
-### Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
-
-Tasks involve developing line charts, scatter plots, bar charts, pie charts, and more to analyze automobile sales trends during recession periods.
-
-### Part 2: Create Dashboard using Plotly and Dash
-
-Tasks include creating a Dash application with dropdown menus, callbacks, and interactive graphs to visualize recession report statistics and yearly report statistics.
-
 
